@@ -39,5 +39,3 @@ be a challenge, as there is a lot of competition in the online news market. The 
 will need to differentiate itself from other news portals and offer unique value
 propositions to attract users and generate revenue.
 
-## Live Web Link
-> [https://amit-dey.github.io/News-Portal-Website/](https://amit-dey.github.io/News-Portal-Website/)
